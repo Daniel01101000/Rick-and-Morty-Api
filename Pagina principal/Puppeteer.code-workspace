@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../Puppeteer"
+		},
+		{
+			"path": "../../Pruebas"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Buscador"
+		},
+		{
+			"path": "../../PokeApi"
+		}
+	],
+	"settings": {}
+}
