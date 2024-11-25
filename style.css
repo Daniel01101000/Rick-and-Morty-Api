@@ -103,7 +103,7 @@ select {
     padding-top: 56.25%; /* Para un aspecto de 16:9 */
     mask-image: linear-gradient(white 70%, transparent);
     top: 40px;
-    background-image: url('../imagenes/205137_1369293.jpg.1500x843_q95_crop-smart_upscale.jpg');
+    background-image: url('205137_1369293.jpg.1500x843_q95_crop-smart_upscale.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -204,7 +204,7 @@ select {
         padding-top: 56.25%; /* Para un aspecto de 16:9 */
         mask-image: linear-gradient(white 70%, transparent);
         top: 40px;
-        background-image: url('../imagenes/rick-and-morty-33916\ \(1\).png');
+        background-image: url('rick-and-morty-33916\ \(1\).png');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
